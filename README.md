@@ -9,6 +9,5 @@
 - `NLP_text_analyzer_lib.py` - Library of functions used by the NLP analyzer.
 - `NLPParserError.py` - Script for handling parsing errors in NLP processing.
 - `sankey_lib.py` - Script for generating Sankey diagrams, a specific type of flow diagram.
-- `Report_and_Slide/` - Contains presentation materials and reports related to the project.
 - `data/` - Data directory for storing datasets and any data-related scripts.
 - `visualizations/` - 3 data visualizations (sankey, wordcloud, sentiment score).
